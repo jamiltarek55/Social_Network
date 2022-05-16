@@ -47,6 +47,7 @@ To get a local copy up and running follow these simple example steps.
  
  
 ## 🔥 About project 👀
+
 **Homepage** 🏠
 <center>
 <div>
@@ -54,6 +55,8 @@ To get a local copy up and running follow these simple example steps.
     <img src="./client/assets/homeDark.PNG">Z
 </div>
 </center>
+
+
 
 **Messages and Calls** ✉️ 📞
 
@@ -63,6 +66,8 @@ To get a local copy up and running follow these simple example steps.
     <img src="./client/assets/messageDark.PNG">Z
 </div>
 </center>
+
+
 
 **photos**
  <center>
