@@ -7,8 +7,36 @@
  - React, React-router-dom
  - Redux, react-redux, redux-thunk
  -  Socket. io, peer
+### App Installation And Running Process
+To get a local copy up and running follow these simple example steps.
+- Download the Zip file and Extract it on you machine
+- goto prodect directory which is Social_Network
+- Or
+- Open terminal
+- Clone this project by the command:
 
-`$ npm run install-all && npm start`
+`$ git clone https://github.com/jamiltarek55/Social_Network.git`
+
+- Then go to the main folder using the next command:
+
+`$ cd Social_Network`
+
+- Then run the next command to install all dependencies:
+
+`$ npm install ` or 
+`$ yarn `
+
+- Finally, run the next command in the terminal to see the web app in your local browser, or also, you can use Live Server in Visual Studio Code.
+
+`$ npm start` or 
+`$ yarn start`
+
+### Run tests
+
+- If you want to run our tests, use the next command.
+
+` $ npm test ` or 
+`$ yarn test`
  
  
 ## 🔥 About project 👀
