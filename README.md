@@ -27,9 +27,16 @@ To get a local copy up and running follow these simple example steps.
 `$ yarn `
 
 - Finally, run the next command in the terminal to see the web app in your local browser, or also, you can use Live Server in Visual Studio Code.
-
+-for server running 
 `$ npm start` or 
 `$ yarn start`
+-for client runnig go to client folder by type `cd lient`
+`$ npm start` or 
+`$ yarn start`
+-For Concurrently Running both server and client  do as follow
+`$ npm run dev` or 
+`$ yarn dev` 
+
 
 ### Run tests
 
