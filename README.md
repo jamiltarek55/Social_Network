@@ -26,9 +26,3 @@
 
 **You need login or register to see...** 🔒
 
-![Authpage]( https://i.ibb.co/Sy2QCky/Peek-2021-08-17-13-54.gif)
-# 🔮 In Future ⏳
--  Make it DRY and SOLID 🧹 🧼 🚿
-- Add testing of components react and api ☑️
- - Add many emoticons 💥 💯
- - Add support for all file formats 🗃️
