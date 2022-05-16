@@ -55,9 +55,7 @@ To get a local copy up and running follow these simple example steps.
     <img src="./client/assets/homeDark.PNG">Z
 </div>
 </center>
-
-
-
+<br/><br/>
 **Messages and Calls** ✉️ 📞
 
 <center>
@@ -66,9 +64,7 @@ To get a local copy up and running follow these simple example steps.
     <img src="./client/assets/messageDark.PNG">Z
 </div>
 </center>
-
-
-
+<br/> <br/>
 **photos**
  <center>
 <div>
@@ -76,7 +72,7 @@ To get a local copy up and running follow these simple example steps.
     <img src="./client/assets/aboutDark.PNG">Z
 </div>
 </center>
-
+<br/><br/>
 **profile** 🛠️ + 🐬  = 🦈
  <center>
 <div>
