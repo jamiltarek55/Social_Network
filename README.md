@@ -13,16 +13,38 @@
  
 ## 🔥 About project 👀
 **Homepage** 🏠
-
-![Homepage]( https://i.ibb.co/PYy1YMQ/Peek-2021-08-17-13-59.gif)
+<center>
+<div>
+    <img src="./client/assets/home.PNG">
+    <img src="./client/assets/homeDark.PNG">Z
+</div>
+</center>
 
 **Messages and Calls** ✉️ 📞
 
-![Messages]( https://i.ibb.co/nbyN557/Peek-2021-08-17-15-06.gif)
+<center>
+<div>
+    <img src="./client/assets/message.PNG">
+    <img src="./client/assets/messageDark.PNG">Z
+</div>
+</center>
 
-**Manage your profile** 🛠️ + 🐬  = 🦈
- 
-![Profilepage]( https://i.ibb.co/qNbxcLV/Peek-2021-08-17-15-12.gif)
+**photos**
+ <center>
+<div>
+    <img src="./client/assets/about.PNG">
+    <img src="./client/assets/aboutDark.PNG">Z
+</div>
+</center>
+
+**profile** 🛠️ + 🐬  = 🦈
+ <center>
+<div>
+    <img src="./client/assets/profile.PNG">
+    <img src="./client/assets/profileDark.PNG">Z
+</div>
+</center>
+
 
 **You need login or register to see...** 🔒
 
