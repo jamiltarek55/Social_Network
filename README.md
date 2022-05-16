@@ -21,6 +21,15 @@ To get a local copy up and running follow these simple example steps.
 
 `$ cd Social_Network`
 
+then delete package.lock or yarn.lock file
+
+now create a file named ".env " and write your own code as bellow not exactly 
+<center>
+<div>
+    <img src="./client/assets/envPic.PNG"
+</div>
+</center>
+
 - Then run the next command to install all dependencies:
 
 `$ npm install ` or 
