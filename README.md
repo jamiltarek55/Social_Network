@@ -85,7 +85,6 @@ For Concurrently Running both server and client  do as follow
     <img src="./client/assets/profileDark.PNG">Z
 </div>
 </center>
-
-
+<br/> <br/>
 **You need login or register to see...** 🔒
 
