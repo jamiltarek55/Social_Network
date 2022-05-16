@@ -10,7 +10,7 @@
 ### App Installation And Running Process
 To get a local copy up and running follow these simple example steps.
 - Download the Zip file and Extract it on you machine
-- goto prodect directory which is Social_Network
+- goto project directory which is Social_Network
 - Or
 - Open terminal
 - Clone this project by the command:
