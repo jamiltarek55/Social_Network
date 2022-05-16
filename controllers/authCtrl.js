@@ -145,5 +145,4 @@ const createRefreshToken = (payload) => {
     expiresIn: "30d",
   });
 };
-
 module.exports = authCtrl;
