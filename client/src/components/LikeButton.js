@@ -18,5 +18,4 @@ const LikeButton = ({ isLike, handleLike, handleUnLike }) => {
     </>
   );
 };
-
 export default LikeButton;
