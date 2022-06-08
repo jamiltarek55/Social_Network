@@ -25,5 +25,4 @@ const Times = ({ total }) => {
     </div>
   );
 };
-
 export default Times;
