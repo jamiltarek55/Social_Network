@@ -30,5 +30,4 @@ const Followers = ({ users, setShowFollowers }) => {
     </div>
   );
 };
-
 export default Followers;
