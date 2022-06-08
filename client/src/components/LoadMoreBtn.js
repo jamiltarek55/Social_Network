@@ -16,5 +16,4 @@ const LoadMoreBtn = ({ result, page, load, handleLoadMore }) => {
     </>
   );
 };
-
 export default LoadMoreBtn;
