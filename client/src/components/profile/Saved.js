@@ -53,5 +53,4 @@ const Saved = ({ auth, dispatch }) => {
     </div>
   );
 };
-
 export default Saved;
