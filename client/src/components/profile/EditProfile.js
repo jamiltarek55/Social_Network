@@ -172,5 +172,4 @@ const EditProfile = ({ setOnEdit }) => {
     </div>
   );
 };
-
 export default EditProfile;
