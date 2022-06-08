@@ -49,5 +49,4 @@ const FollowBtn = ({ user }) => {
     </>
   );
 };
-
 export default FollowBtn;
