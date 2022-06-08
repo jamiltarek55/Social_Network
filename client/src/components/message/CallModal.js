@@ -282,5 +282,4 @@ const CallModal = () => {
     </div>
   );
 };
-
 export default CallModal;
