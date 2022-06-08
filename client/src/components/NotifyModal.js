@@ -106,5 +106,4 @@ const NotifyModal = () => {
     </div>
   );
 };
-
 export default NotifyModal;
