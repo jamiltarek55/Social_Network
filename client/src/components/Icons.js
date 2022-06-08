@@ -56,5 +56,4 @@ const Icons = ({ setContent, content, theme }) => {
     </div>
   );
 };
-
 export default Icons;
