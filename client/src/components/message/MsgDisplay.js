@@ -92,5 +92,4 @@ const MsgDisplay = ({ user, msg, theme, data }) => {
     </>
   );
 };
-
 export default MsgDisplay;
