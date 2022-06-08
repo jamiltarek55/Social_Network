@@ -37,5 +37,4 @@ const PostThumb = ({ posts, result }) => {
     </div>
   );
 };
-
 export default PostThumb;
