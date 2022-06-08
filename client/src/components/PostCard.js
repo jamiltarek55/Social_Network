@@ -18,5 +18,4 @@ const PostCard = ({ post, theme }) => {
     </div>
   );
 };
-
 export default PostCard;
