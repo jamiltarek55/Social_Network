@@ -90,5 +90,4 @@ const Info = ({ id, auth, profile, dispatch }) => {
     </div>
   );
 };
-
 export default Info;
