@@ -47,5 +47,4 @@ const Posts = ({ auth, id, dispatch, profile }) => {
     </div>
   );
 };
-
 export default Posts;
