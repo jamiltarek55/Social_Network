@@ -46,5 +46,4 @@ const ShareModal = ({ url, theme }) => {
     </div>
   );
 };
-
 export default ShareModal;
